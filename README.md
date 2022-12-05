@@ -1,2 +1,2 @@
 # NoteForDev
-note for github.dev
+note for dev
